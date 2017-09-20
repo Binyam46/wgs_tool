@@ -97,5 +97,6 @@ wombat.log: Log information from WOMBAT run
 
  
 References 
+
 Meyer, K. 2007. WOMBAT – A tool for mixed model analyses in quantitative genetics by 	REML. J. Zhejiang Uni. SCIENCE B 8:815-821.
 Guosheng Su and Per Madsen (http://webcache.googleusercontent.com/search?q=cache:7Y9Qo9fPo5oJ:dmu.agrsci.dk/Gmatrix/Doc/Previous/Gmatrix-User-Guide.pdf+&cd=2&hl=en&ct=clnk&gl=no)
